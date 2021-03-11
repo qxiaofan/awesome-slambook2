@@ -6,7 +6,7 @@ This  is modified from [here](https://github.com/gaoxiang12/slambook2)， thanks
 
 ![titlepage](./figures/title.png)
 
-https://pan.baidu.com/s/1XQwpnDb3BOvxXZhL-03p3w)
+
 
 ---
 
